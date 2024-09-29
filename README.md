@@ -1,6 +1,7 @@
 # Hi, I'm Mahesh 👋
 
 ![Banner](https://github.com/maheshbhandari433/maheshbhandari433/blob/main/mahesh-bhandari-banner.png)
+---
 
 ### 👨‍💻 About Me
 I am a passionate software developer focused on building impactful applications. My expertise lies in **full-stack development**, particularly in **JavaScript** and **TypeScript**. I enjoy solving problems and creating efficient solutions through coding.
@@ -37,7 +38,7 @@ I am a passionate software developer focused on building impactful applications.
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbhandari433&layout=compact&theme=radical)](https://github.com/maheshbhandari433)
 
-[Mahesh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maheshbhandari433&theme=rogue)
+![Mahesh's Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=maheshbhandari433&theme=rogue)
 
 ---
 
