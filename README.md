@@ -40,12 +40,6 @@ I’m a passionate **full-stack developer** specializing in **JavaScript** and *
 
 ### 🚀 Featured Projects
 
-- [**Book Management App**](https://github.com/maheshbhandari433/book-management-app)  
-  📚 A JavaScript-based app for managing books (add, edit, delete).  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) 
-  ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-  ![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
-
 - [**Countries Next.js Starter**](https://github.com/maheshbhandari433/countries-nextjs-starter)  
   🌍 A starter template for country-related applications using Next.js.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -62,17 +56,22 @@ I’m a passionate **full-stack developer** specializing in **JavaScript** and *
   
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-[![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=maheshbhandari433&show_icons=true&theme=radical)](https://github.com/maheshbhandari433)
+![Mahesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maheshbhandari433&show_icons=true&theme=radical)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbhandari433&layout=compact&theme=radical)](https://github.com/maheshbhandari433)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=maheshbhandari433&theme=radical)
+
+![Mahesh's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=maheshbhandari433&theme=rogue)
+
 
 ---
 
 ### 💬 Connect with Me
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari433/) or [Twitter](#) for collaboration or just to chat!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari433/) or [Twitter]() for collaboration or just to chat!
 
 ---
 
