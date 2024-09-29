@@ -49,16 +49,17 @@ I’m a passionate **full-stack developer** specializing in **JavaScript** and *
 - [**Countries Next.js Starter**](https://github.com/maheshbhandari433/countries-nextjs-starter)  
   🌍 A starter template for country-related applications using Next.js.  
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
   [Live Demo](https://count-ries.netlify.app/)
 
 - [**Exchange Rate App**](https://github.com/maheshbhandari433/exchange-rate-app)  
   💱 A TypeScript project to fetch and display real-time exchange rates.  
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
-  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+  ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)  
   [Live Demo](https://currency-convert-rates.netlify.app/)
+  
 ---
 
 ### 📊 GitHub Stats
@@ -71,7 +72,7 @@ I’m a passionate **full-stack developer** specializing in **JavaScript** and *
 
 ### 💬 Connect with Me
 
-Feel free to reach out via [LinkedIn](your-linkedin-url) or [Twitter](your-twitter-url) for collaboration or just to chat!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari433/) or [Twitter](#) for collaboration or just to chat!
 
 ---
 
