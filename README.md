@@ -38,7 +38,7 @@ I’m a passionate **full-stack developer** specializing in **JavaScript** and *
 
 ### 💬 Connect with Me
 
-Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari433/) for collaboration or just to chat!
+Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari433/) or [Email](maheshbhandari433@gmail.com) for collaboration or just to chat!
 
 ---
 
