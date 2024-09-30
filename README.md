@@ -34,6 +34,7 @@ I create web solutions using JavaScript and TypeScript, focused on efficiency fo
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maheshbhandari433&layout=compact&theme=radical)](https://github.com/maheshbhandari433)
 ---
 
 ### 💬 Connect with Me
