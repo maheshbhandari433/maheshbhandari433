@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-I’m a passionate **full-stack developer** specializing in **JavaScript** and **TypeScript**, focused on building impactful applications. I enjoy solving complex problems and creating efficient solutions.
+I create web solutions using JavaScript and TypeScript, focused on efficiency for personal and business projects.
 
 ---
 
@@ -44,4 +44,4 @@ Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/maheshbhandari
 
 ### 🛠 Explore More
 
-Check out more of my projects on [GitHub repositories](https://github.com/maheshbhandari433?tab=repositories).
+Check out my projects on [GitHub repositories](https://github.com/maheshbhandari433?tab=repositories).
